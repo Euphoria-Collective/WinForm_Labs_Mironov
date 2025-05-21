@@ -3,11 +3,11 @@
 
 ## 1. Window Forms
 ### Стек:
-C# NETFramework v4.8б
+C# NETFramework v4.8
 <br>.Net Core
 <br>accessdatabaseengine_X64
 ### Установка
-1. Установите Visual Studio 2022 (Community бесплатный)
+1. Установите Visual Studio 2022 Community
 2. Откройте файл проекта .sln и запустите отладку
 ### Задания:
 <a href="https://github.com/Euphoria-Collective/WinForm_Labs_Mironov/tree/main/Lab1">Лабораторная работа №1. Введение в разработку форм</a><br>
