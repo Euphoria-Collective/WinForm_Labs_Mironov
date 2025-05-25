@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|d:\\github\\other\\leshalabs\\lab3-main\\wintimer2\\wintimer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\wintimer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\wintimer2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\wintimer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\wintimer2\\usercontroltimer2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E55128-DDE7-496F-A959-AFD546991DB5}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\usercontroltimer2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\Form1.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinTimer2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:53:53.191Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlTimer2.cs",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\UserControlTimer2.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\UserControlTimer2.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\UserControlTimer2.cs",
+              "RelativeToolTip": "WinTimer2\\UserControlTimer2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:24:34.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlTimer2.Designer.cs",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\UserControlTimer2.Designer.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\UserControlTimer2.Designer.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\UserControlTimer2.Designer.cs",
+              "RelativeToolTip": "WinTimer2\\UserControlTimer2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:24:31.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\Program.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\Program.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\Program.cs",
+              "RelativeToolTip": "WinTimer2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:24:28.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\Form1.Designer.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\Form1.Designer.cs",
+              "RelativeToolTip": "WinTimer2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:24:24.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\Form1.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab3-main\\WinTimer2\\WinTimer2\\Form1.cs",
+              "RelativeToolTip": "WinTimer2\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:24:20.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21B5C2-EB38-4872-897C-C097513A943E}|TestStandartDialog\\TestStandartDialog.csproj|d:\\github\\other\\leshalabs\\lab4-main\\teststandartdialog\\teststandartdialog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA21B5C2-EB38-4872-897C-C097513A943E}|TestStandartDialog\\TestStandartDialog.csproj|solutionrelative:teststandartdialog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21B5C2-EB38-4872-897C-C097513A943E}|TestStandartDialog\\TestStandartDialog.csproj|d:\\github\\other\\leshalabs\\lab4-main\\teststandartdialog\\teststandartdialog\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21B5C2-EB38-4872-897C-C097513A943E}|TestStandartDialog\\TestStandartDialog.csproj|solutionrelative:teststandartdialog\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21B5C2-EB38-4872-897C-C097513A943E}|TestStandartDialog\\TestStandartDialog.csproj|d:\\github\\other\\leshalabs\\lab4-main\\teststandartdialog\\teststandartdialog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21B5C2-EB38-4872-897C-C097513A943E}|TestStandartDialog\\TestStandartDialog.csproj|solutionrelative:teststandartdialog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21B5C2-EB38-4872-897C-C097513A943E}|TestStandartDialog\\TestStandartDialog.csproj|d:\\github\\other\\leshalabs\\lab4-main\\teststandartdialog\\teststandartdialog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21B5C2-EB38-4872-897C-C097513A943E}|TestStandartDialog\\TestStandartDialog.csproj|solutionrelative:teststandartdialog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\TestStandartDialog\\Form1.cs",
+              "RelativeDocumentMoniker": "TestStandartDialog\\Form1.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\TestStandartDialog\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TestStandartDialog\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:52:20.172Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\TestStandartDialog\\Form1.cs",
+              "RelativeDocumentMoniker": "TestStandartDialog\\Form1.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\TestStandartDialog\\Form1.cs",
+              "RelativeToolTip": "TestStandartDialog\\Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:50:48.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\TestStandartDialog\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TestStandartDialog\\Form1.Designer.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\TestStandartDialog\\Form1.Designer.cs",
+              "RelativeToolTip": "TestStandartDialog\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:50:46.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\TestStandartDialog\\Program.cs",
+              "RelativeDocumentMoniker": "TestStandartDialog\\Program.cs",
+              "ToolTip": "D:\\GITHUB\\other\\leshalabs\\lab4-main\\TestStandartDialog\\TestStandartDialog\\Program.cs",
+              "RelativeToolTip": "TestStandartDialog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:50:44.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
